@@ -1,2 +1,3 @@
 # Sudoku-solver
-Simple Sudoku solver, user tells the console the number and it's location, after that, the program tries to solve it.
+Simple Sudoku solver, 
+From the console the user gets to input a value between 1-9, followed by it's coordinates in the 9x9 Sudoku grid.
